@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
-<title>Shaun's Profile</title>
+<title>Shaun's Profile </title>
 <style>
     body {
         font-family: "Audiowide", sans-serif;
@@ -16,7 +16,7 @@
         background: #000;
     }
 
-    .h2{
+   .h2{
         font-family: "Audiowide", sans-serif;
     }
     .card{
