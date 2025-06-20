@@ -16,7 +16,7 @@
         background: #000;
     }
 
-   .h2{
+    .h2{
         font-family: "Audiowide", sans-serif;
     }
     .card{
