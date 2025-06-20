@@ -15,7 +15,7 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background: #000;
+      background-image: linear-gradient(to right,#e42e17,#585b61 );
     }
 
     .card {
